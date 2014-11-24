@@ -12,7 +12,7 @@ public class Constants {
 
     public static final int ROLLED_VALUE_TO_SPAWN_TOKEN = 6;
     public static final int MAX_NUM_OF_ROLLED_DICES = 3;
-    public static final float SECONDS_FOR_NEXT_ROLL = 2.0f;
+    public static final float SECONDS_FOR_NEXT_ROLL = 1.0f;
 
     public static final int NUM_OF_PLAYERS = 4;
 
